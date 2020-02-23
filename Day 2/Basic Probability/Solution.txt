@@ -1,3 +1,5 @@
+Author: SBM
+
 Answer: 5/6
 
 There are 6 possibilities on each die. On 2 dice, there are 6 * 6 = 36 possibilities
